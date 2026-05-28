@@ -1,3 +1,6 @@
 Somthing
 add another commit
 abcd
+dog
+cat
+man
